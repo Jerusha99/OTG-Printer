@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thermal Printer Vendor IDs -->
+    <!-- Catch-all for any USB printer device (class 7) -->
+    <usb-device class="7" />
+    
+    <!-- Common thermal printer vendors -->
+    <!-- Zebra -->
+    <usb-device vendor-id="0x0a5f" />
+    <!-- Honeywell -->
+    <usb-device vendor-id="0x0c2e" />
+    <!-- Star Micronics -->
+    <usb-device vendor-id="0x0519" />
+    <!-- Seiko Epson -->
+    <usb-device vendor-id="0x04b8" />
+    <!-- Brother -->
+    <usb-device vendor-id="0x04f9" />
+    <!-- Canon -->
+    <usb-device vendor-id="0x04a9" />
+</resources>
